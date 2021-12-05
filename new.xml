@@ -1,7 +1,6 @@
 <xml>
-    <фио>Шевченко Татьяна Николаевна</фио>
-    <возраст>33</возраст>
-    <количество домашних="животных">1 </количество>
-    <зарплата будущая="твоя">70000 руб</зарплата>
-
+<full_name>Shevchenko Tatiana Nikolaevna</full_name>
+<age>33</age>
+<number_of pets="animals">1</number_of>
+<future_salary>70000</future_salary>
 </xml>
