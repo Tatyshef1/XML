@@ -1,7 +1,7 @@
 <xml>
-    <фильм любимый="твой">Унесённые ветром</фильм>
-    <сериал любимый="твой">Великолепный век</сериал>
-    <еда любимая="твоя">манты</еда>
-    <время_года любимое="твоё">лето</время_года>
-    <страна которую="ты посетишь">Германия</страна>
+<favority_movie>Gone with the wind</favority_movie>
+<favorite_TV_series>Magnificent century</favorite_TV_series>
+<favorite_food>mantu</favorite_food>
+<time_of_the_year>summer</time_of_the_year>
+<country_visit>Germany</country_visit>
 </xml>
