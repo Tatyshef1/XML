@@ -1,27 +1,27 @@
 <xml>
- 
-  <скилл_1>Мобильное тестирование</скилл_1>
-  <скилл_2>Особенность iOS, Android, гайдлайны</скилл_2>
-  <скилл_3>Сборка iOS приложений на XCode</скилл_3>
-  <скилл_4>Сборка Android приложений на Android Studio</скилл_4>
-  <скилл_5>Перехват мобильного трафика (сниффинг) через Charles</скилл_5>
-  <скилл_6>Настройка прокси на iOS и Android</скилл_6>
-  <скилл_7>Командная строка (terminal) Linux Ubuntu</скилл_7>
-  <скилл_8> Простой bash скриптринг, автоматизация рутинных задач на сервере</скилл_8>
-  <скилл_9>Доступ к удалённым серверам</скилл_9>
-  <скилл_10>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join</скилл_10>
-  <скилл_11>Git</скилл_11>
-  <скилл_12>Jmeter</скилл_12>
-  <скилл_13>Методология разработки Scrum</скилл_13>
-  <скилл_14>Python.Создание собственного клиент-серверного приложения</скилл_14>
-  <скилл_15>VPN</скилл_15>
-  <скилл_16>DevTools</скилл_16>
-  <скилл_17>Тестирование API</скилл_17>
-  <скилл_18>Снятие логов</скилл_18>
-  <скилл_19>Postman и Fiddler</скилл_19>
-  <скилл_20>Что такое JSON, XML</скилл_20>
-  <скилл_21>Структура запросов и ответов</скилл_21>
-  <скилл_23>Клиент-серверная архитектура</скилл_23>
-  
+
+<skill_1>Mobile testing</skill_1>
+<skill_2>Feature of iOS, Android, guidelines</skill_2>
+<skill_3>Building iOS apps on XCode</skill_3>
+<skill_4>Building Android apps on Android Studio</skill_4>
+<skill_5>Interception of mobile traffic (sniffing) via Charles</skill_5>
+<skill_6>Proxy settings on iOS and Android</skill_6>
+<skill_7>Linux Ubuntu Command line (terminal)</skill_7>
+<skill_8> Simple bash scripting, automation of routine tasks on the server</skill_8>
+<skill_9>Access to remote servers</skill_9>
+<skill_10>SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join</skill_10>
+<skill_11>Git</skill_11>
+<skill_12>Jmeter</skill_12>
+<skill_13>Scrum Development methodology</skill_13>
+<skill_14>Python.Creating your own client-server application</skill_14>
+<skill_15>VPN</skill_15>
+<skill_16>DevTools</skill_16>
+<skill_17>API testing</skill_17>
+<skill_18>Removing logs</skill_18>
+<skill_19>Postman and Fiddler</skill_19>
+<skill_20>What is JSON, XML</skill_20>
+<skill_21>Structure of requests and responses</skill_21>
+<skill_23>Client-server architecture</skill_23>
+
 </xml>
 
