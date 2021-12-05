@@ -1,12 +1,11 @@
 <xml>
-<идентификатор>Metro-17</идентификатор>
-<Заглавие>Некорректные параметры максимального масштаба схемы метро</Заглавие>
-<Описание>Можно приближать схему до нечитаемого состояния</Описание>
-<Шаги воспроизведения="1">Открыть схему метро https://qa-metro.stand-2.praktikum-services.ru/</Шаги>
-<шаги воспроизведения="2">Кликнуть на значок + более 6 раз</шаги>
-<ФР>Схема увеличилась до нечитаемого состояния</ФР>
-<ОР>Через 3-6 кликов схема перестаёт увеличиваться</ОР>
-<Окружение>Windows 8, браузер Google Chrome Версия 77.0.3865.90</Окружение>
-<Приоритет>Средний</Приоритет>
-
+<id>Metro17</id>
+<Title>Incorrect parameters of the maximum scale of the metro scheme</Title>
+<Description>It is possible to approximate the scheme to an unreadable state</Description>
+<steps_to_reproduce>Open the metro map https://qa-metro.stand-2.praktikum-services.ru/</steps_to_reproduce>
+<steps_to_reproduce>Click on the +icon more than 6 times</steps_to_reproduce>
+<Factual_result>The scheme has increased to an unreadable state</Factual_result>
+<Expected_result>After 3-6 clicks, the scheme stops increasing</Expected_result>
+<Environment>Windows 8, Google Chrome Browser Version 77.0.3865.90</Environment>
+<Priority>Average</Priority>
 </xml>
